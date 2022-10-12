@@ -1,0 +1,15 @@
+C:\LeetCode\thinkFolio\bin\Debug\net6.0\thinkFolio.exe
+C:\LeetCode\thinkFolio\bin\Debug\net6.0\thinkFolio.deps.json
+C:\LeetCode\thinkFolio\bin\Debug\net6.0\thinkFolio.runtimeconfig.json
+C:\LeetCode\thinkFolio\bin\Debug\net6.0\thinkFolio.dll
+C:\LeetCode\thinkFolio\bin\Debug\net6.0\thinkFolio.pdb
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.csproj.AssemblyReference.cache
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.AssemblyInfoInputs.cache
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.AssemblyInfo.cs
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.csproj.CoreCompileInputs.cache
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.dll
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\refint\thinkFolio.dll
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.pdb
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\thinkFolio.genruntimeconfig.cache
+C:\LeetCode\thinkFolio\obj\Debug\net6.0\ref\thinkFolio.dll
